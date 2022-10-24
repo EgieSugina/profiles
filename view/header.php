@@ -5,7 +5,7 @@
     </div>
     <div class="header-titles">
       <h2>Egie Sugina</h2>
-      <h4>Full Stack Develover</h4>
+      <h4>Full Stack Developer</h4>
     </div>
   </div>
 
