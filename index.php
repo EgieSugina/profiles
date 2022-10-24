@@ -6,7 +6,7 @@
     <title>Egie Sugina</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <meta name="description" content="Egie Sugina" />
-    <meta name="keywords" content="vcard, resposnive, retina, resume, jquery, css3, bootstrap, Material CV, portfolio" />
+    <meta name="keywords" content="Egie, Sugina, portfolio" />
     <meta name="author" content="lmpixels" />
     <link rel="shortcut icon" href="favicon.ico">
 
@@ -16,12 +16,11 @@
     <link rel="stylesheet" href="css/animations.css" type="text/css">
     <link rel="stylesheet" href="css/perfect-scrollbar.css" type="text/css">
     <link rel="stylesheet" href="css/owl.carousel.css" type="text/css">
-    <!-- <link rel="stylesheet" href="css/magnific-popup.css" type="text/css"> -->
+    
     <link rel="stylesheet" href="css/main.css" type="text/css">
 
     <script src="js/modernizr.custom.js"></script>
   </head>
-
   <body>
     <!-- Animated Background -->
     <div class="lm-animated-bg" style="background-image: url(img/main_bg.jpg);filter: blur(4px);  -webkit-filter: blur(4px);"></div>
@@ -69,7 +68,6 @@
     <script src='js/jquery.shuffle.min.js'></script>
     <script src='js/masonry.pkgd.min.js'></script>
     <script src='js/owl.carousel.min.js'></script>
-    <!-- <script src="js/jquery.magnific-popup.min.js"></script> -->
     <script src="js/main.js"></script>
   </body>
 </html>
