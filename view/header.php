@@ -1,7 +1,7 @@
 <header id="site_header" class="header mobile-menu-hide">
   <div class="header-content">
     <div class="header-photo">
-      <img src="img/main_photo.jpg" alt="Egie Sugina" />
+      <img src="img/1547193047800.jpeg" alt="Egie Sugina" />
     </div>
     <div class="header-titles">
       <h2>Egie Sugina</h2>
