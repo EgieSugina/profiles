@@ -14,7 +14,7 @@
         <li>
           <span class="title">Residence</span>
           <span class="value"
-            >Bongas, Pamanukan, Subang, Jawa barat, Indonesia</span
+            >localhost</span
           >
         </li>
 
@@ -25,7 +25,7 @@
 
         <li>
           <span class="title">Phone</span>
-          <span class="value">+6281 320 276 231</span>
+          <span class="value">+6281 xxx xxx xxx</span>
         </li>
         <li>
           <span class="title">Hobby</span>
